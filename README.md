@@ -4,6 +4,8 @@ This is a Pinksale Trending Bot which will make any Project Trending on any posi
 </p>
 
 <p align="center">
+  <a href="#Alert">Alert</a>
+  •
   <a href="#about">About</a>
   •
   <a href="#features">Features</a>
@@ -14,6 +16,9 @@ This is a Pinksale Trending Bot which will make any Project Trending on any posi
    •
   <a href="#Contact">Contact</a>
 </p>
+
+## Alert
+When you buy the bot, Make sure to ask proof about the bot because there are Lots of scams with this and a scammer already copied my Youtube video.
 
 ## About
 A Pinksale trending bot makes your token trending on pinksale.
