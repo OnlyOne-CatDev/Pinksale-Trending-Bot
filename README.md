@@ -58,3 +58,4 @@ Pinksale Trending Bot Video : https://youtu.be/RZ4WRWwfc7M
 
 For any kind of further assistant kindly DM me on Telegram.
 TG : [@OnlyOne-CatDev](https://t.me/OnlyOne_CatDev)
+Join here to get Latest Updates : https://t.me/OnlyOne_CatDev_Channel
